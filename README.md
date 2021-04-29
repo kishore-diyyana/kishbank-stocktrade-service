@@ -9,7 +9,7 @@
 ## Data:
 Example of a trade data JSON object:
 ```
-{
+[{
     "id":1,
     "type": "buy",
     "userId": 23,
@@ -17,7 +17,7 @@ Example of a trade data JSON object:
     "shares": 30,
     "price": 134,
     "timestamp": 1531522701000
-}
+}]
 ```
 
 ## Requirements:
